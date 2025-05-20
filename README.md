@@ -1,8 +1,16 @@
-# React + Vite
+# MyPortfolio
+This GitHub repository contains a personal portfolio website. This site allows you to explore my skills, projects, and contact me through the contact section.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technology Used
 
-Currently, two official plugins are available:
+* HTML: Basic structure and content creation.
+* CSS: Design and style adjustments.
+* ReactJS: Addition of interactive features and animations.
+* RemixIcons: Used for sourcing icons on the site.
+* FramerMotion: Employed for scroll animations.
+* Email.js: Facilitates email sending for the contact form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
