@@ -2,6 +2,7 @@ import { PROJECTS } from "../constants/index.js";
 import { motion } from "framer-motion";
 import { MdArrowOutward } from "react-icons/md";
 
+
 const Projects = () => {
   return (
     <div className="border-b border-neutral-900 pb-4" id="projects">
@@ -20,7 +21,7 @@ const Projects = () => {
                 width={200}
                 height={200}
                 alt={project.title}
-                className="mb-6 rounded"
+                className="mb-6 rounded cursor pointer transition-transform duration-300 ease-in-out hover:scale-150 hover:z-10 md:hover:origin-center"
               />
             </motion.div>
             <motion.div
