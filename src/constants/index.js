@@ -4,11 +4,10 @@ import project3 from "../assets/projects/project3.png";
 import project4 from "../assets/projects/project4.png";
 import project5 from "../assets/projects/project5.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like .Net, Asp.Net Core, Node.js, MsSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I’m a full stack developer with 2 years of hands-on experience in building real-world projects using React, Next.js, .NET, and Node.js. I’m all about solving problems with clean, scalable code — whether it’s designing smooth UIs or building solid backend systems. I help businesses grow with smart, custom web solutions that actually work.`;
 
-export const ABOUT_TEXT = "I’m a freelance full stack developer with 2+ years of experience building web apps that just work — clean, scalable, and user-friendly. I mostly work with .NET, React, and Node.js, and I’ve got a thing for solving tough problems with smart, custom solutions. From fixing messy bugs to building full systems from the ground up, I enjoy turning ideas into reliable, real-world products. Lately, I’ve been teaming up with clients from all kinds of industries, helping them bring their projects to life with code that makes sense and actually delivers."
-
-;
+export const ABOUT_TEXT =
+  "I’m a freelance full stack developer with 2+ years of experience building web apps that just work — clean, scalable, and user-friendly. I mostly work with .NET, React, and Node.js, and I’ve got a thing for solving tough problems with smart, custom solutions. From fixing messy bugs to building full systems from the ground up, I enjoy turning ideas into reliable, real-world products. Lately, I’ve been teaming up with clients from all kinds of industries, helping them bring their projects to life with code that makes sense and actually delivers.";
 
 export const EXPERIENCES = [
   {
