@@ -6,15 +6,20 @@ import project5 from "../assets/projects/project5.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like .Net, Asp.Net Core, Node.js, MsSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With over 2 years of experience, I have worked with a variety of technologies, including .Net, React, Node.js, MsSQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges.
-In recent times, I’ve been channeling this passion into freelancing, where I collaborate with clients from diverse industries to build custom web solutions that truly make an impact. I thrive in collaborative environments—whether it’s a team or a client call—and enjoy solving complex problems to deliver high-quality, scalable results.`;
+export const ABOUT_TEXT = "I’m a freelance full stack developer with 2+ years of experience building web apps that just work — clean, scalable, and user-friendly. I mostly work with .NET, React, and Node.js, and I’ve got a thing for solving tough problems with smart, custom solutions. From fixing messy bugs to building full systems from the ground up, I enjoy turning ideas into reliable, real-world products. Lately, I’ve been teaming up with clients from all kinds of industries, helping them bring their projects to life with code that makes sense and actually delivers."
+
+;
 
 export const EXPERIENCES = [
   {
     year: "02/2025 - Present",
     role: "Full Stack Developer",
     company: "Upwork",
-    description: `Developing and maintaining web applications using .Net,JavaScript, React.js, and Node.js. Implementing RESTful APIs and integrating with MongoDB,MsSQL databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: [
+      "Developed and maintained web applications using .NET, JavaScript, React.js, and Node.js.",
+      "Implemented RESTful APIs and integrated with MongoDB and MsSQL databases.",
+      "Collaborated with stakeholders to define project requirements and timelines.",
+    ],
     technologies: [".Net", "Docker", "React.js", "Node.js", "MsSQL"],
   },
   {
