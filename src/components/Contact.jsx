@@ -51,11 +51,13 @@ const Contact = () => {
           type="text"
           name="from_name"
           placeholder="Your name.."
+          required
           className="w-full px-4 py-3 rounded-md bg-white/5 border border-white/10 text-white placeholder-gray-400 focus:ring-2 focus:ring-violet-500 outline-none transition"
         />
         <input
           type="email"
           name="from_email"
+          required
           placeholder="Your email.."
           className="w-full px-4 py-3 rounded-md bg-white/5 border border-white/10 text-white placeholder-gray-400 focus:ring-2 focus:ring-violet-500 outline-none transition"
         />

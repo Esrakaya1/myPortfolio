@@ -1,7 +1,7 @@
 // import logo from "../assets/EK-logo.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
+import { SiMedium } from "react-icons/si";
 
 const Navbar = () => {
   return (
@@ -32,7 +32,7 @@ const Navbar = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <SiLeetcode className="hover:text-purple-400 transition-colors duration-300" />
+          <SiMedium className="hover:text-purple-400 transition-colors duration-300" />
         </a>
       </div>
     </nav>
