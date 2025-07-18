@@ -28,7 +28,7 @@ const Navbar = () => {
           <FaGithub className="hover:text-purple-400 transition-colors duration-300" />
         </a>
         <a
-          href="https://leetcode.com/u/kyesra7/"
+          href="https://medium.com/@kyesra7"
           target="_blank"
           rel="noopener noreferrer"
         >
