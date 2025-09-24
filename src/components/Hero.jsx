@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/Profile.jpg";
+import profilePic from "../assets/headshot.png";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -53,7 +53,6 @@ const Hero = () => {
               alt="Esra Kaya"
               className="h-80 max-auto object-cover shadow-lg rounded-lg filter brightness-60"
             />
-            
           </div>
         </div>
       </div>
