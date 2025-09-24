@@ -13,8 +13,7 @@ This GitHub repository contains a personal portfolio website. [esrakaya.dev](htt
 
 ## Website Overview 
 
-![Image](https://github.com/user-attachments/assets/76617bf1-089d-43c7-8d9b-b4ac659e064a)
-
+<img width="1855" height="756" alt="Image" src="https://github.com/user-attachments/assets/46faea7d-bbda-4604-b8f1-428052ab66d7" />
 
 
 
